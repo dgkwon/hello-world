@@ -12,3 +12,5 @@ Another text line.
 Remote change here.
 
 Local change here.
+
+Added new line
